@@ -89,5 +89,5 @@ print(f"Righe estratte: {len(df_new):,}")
 conn.close()
 
 # STEP 4 — salvo
-df_new.to_csv("TicketEstrazione050326.csv", index=False, encoding='utf-8-sig')
+df_new.to_csv("TicketEstrazione090326.csv", index=False, encoding='utf-8-sig')
 print("Salvato!")
