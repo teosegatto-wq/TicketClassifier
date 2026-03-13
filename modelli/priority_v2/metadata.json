@@ -1,0 +1,30 @@
+{
+  "versione": "v2",
+  "modello_embedding": "intfloat/multilingual-e5-base",
+  "prefisso_e5": "query: ",
+  "classificatore": "LinearSVC",
+  "C_ottimale": 5.0,
+  "feature": [
+    "embedding_e5_768d",
+    "priorita_iniziale_cliente_ohe",
+    "has_urgenza"
+  ],
+  "classi": [
+    "P1",
+    "P2",
+    "P3",
+    "P4"
+  ],
+  "split": "temporale",
+  "soglia_split": "2025-11-01",
+  "macro_f1_test": 0.8435,
+  "accuracy_test": 0.8833,
+  "n_train": 46353,
+  "n_test": 12032,
+  "keyword_urgenza": [
+    "urgente",
+    "immediato",
+    "il prima possibile",
+    "critico"
+  ]
+}
