@@ -17,7 +17,7 @@
   ],
   "split": "temporale",
   "soglia_split": "2025-11-01",
-  "macro_f1_test": 0.8435,
+  "macro_f1_test": 0.8434,
   "accuracy_test": 0.8833,
   "n_train": 46353,
   "n_test": 12032,
