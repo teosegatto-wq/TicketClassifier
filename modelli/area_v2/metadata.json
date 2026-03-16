@@ -1,0 +1,29 @@
+{
+  "versione": "v2",
+  "modello_embedding": "intfloat/multilingual-e5-base",
+  "prefisso_e5": "query: ",
+  "classificatore": "LinearSVC",
+  "C_ottimale": 10.0,
+  "class_weight": "balanced",
+  "feature": [
+    "embedding_e5_768d"
+  ],
+  "classi": [
+    "area_personale",
+    "area_sanitaria",
+    "area_sistemistica",
+    "area_territoriale",
+    "ciclo_attivo",
+    "ciclo_passivo",
+    "protocollo_documentale_delibere",
+    "rendicontazione_flussi",
+    "sistema381"
+  ],
+  "split": "temporale",
+  "soglia_split": "2025-11-01",
+  "macro_f1_test": 0.6511,
+  "accuracy_test": 0.7424,
+  "n_train": 41828,
+  "n_test": 10321,
+  "note": "Hardware accorpato in area_sistemistica; business_intelligence e protocollo_delibere droppati"
+}
