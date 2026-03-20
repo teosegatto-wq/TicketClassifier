@@ -6,7 +6,29 @@
   "C_ottimale": 10.0,
   "class_weight": "balanced",
   "feature": [
-    "embedding_e5_768d"
+    "embedding_e5_768d",
+    "ohe_priorita_iniziale_cliente",
+    "keyword_booleane"
+  ],
+  "keyword_cols": [
+    "kw_s381_codice",
+    "kw_s381_rapportino",
+    "kw_s381_timbrate",
+    "kw_s381_calendario_presenze",
+    "kw_ter_unodomo",
+    "kw_ter_distretto",
+    "kw_pas_iva",
+    "kw_pas_fornitore",
+    "kw_pas_cespiti",
+    "kw_pas_prima_nota",
+    "kw_pas_ammortamento",
+    "kw_pas_analitica",
+    "kw_pas_reverse",
+    "kw_att_retta",
+    "kw_att_pagopa",
+    "kw_att_sdd",
+    "kw_att_portale_utenti",
+    "kw_att_fattura_elettronica"
   ],
   "classi": [
     "area_personale",
@@ -21,8 +43,8 @@
   ],
   "split": "temporale",
   "soglia_split": "2025-11-01",
-  "macro_f1_test": 0.6511,
-  "accuracy_test": 0.7424,
+  "macro_f1_test": 0.6647,
+  "accuracy_test": 0.7561,
   "n_train": 41828,
   "n_test": 10321,
   "note": "Hardware accorpato in area_sistemistica; business_intelligence e protocollo_delibere droppati"

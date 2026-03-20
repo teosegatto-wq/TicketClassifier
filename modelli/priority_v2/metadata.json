@@ -17,8 +17,8 @@
   ],
   "split": "temporale",
   "soglia_split": "2025-11-01",
-  "macro_f1_test": 0.8434,
-  "accuracy_test": 0.8832,
+  "macro_f1_test": 0.8441,
+  "accuracy_test": 0.8835,
   "n_train": 46353,
   "n_test": 12032,
   "keyword_urgenza": [
