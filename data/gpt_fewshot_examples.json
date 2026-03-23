@@ -1,0 +1,181 @@
+{
+  "area_personale": [
+    {
+      "classe": "area_personale",
+      "score": 3.075,
+      "n_parole": 62,
+      "oggetto": "Cedolini stipendi e tabulato timbrature non presente sul portale personale ultim",
+      "testo": "Cedolini stipendi e tabulato timbrature non presente sul portale personale ultima dipendente assunta Orario reperibilità contatto: 08.15 - 15.45 TUTTI I GIORNITelefono: 0471/978752\n\nBuongiorno, la collaboratrice sig.ra Cusimano Nilde, assunta presso questa Fondazione dal 01/10/2024, non riceve a tutt'oggi i cedolini stipendi e il tabulato timbrature sul portale del personale. Potete verificare la causa? Ringrazio e attendo Vostra cortese risposta.\nCinzia Mazzucco"
+    },
+    {
+      "classe": "area_personale",
+      "score": 0.903,
+      "n_parole": 43,
+      "oggetto": "ZAINAGHI EMMA Orario reperibilità contatto: Telefono: 3923417819",
+      "testo": "ZAINAGHI EMMA Orario reperibilità contatto: Telefono: 3923417819\n\nBuongiorno, da un controllo eseguito sul portale mancano le timbrature della dipendente ZAINAGHI EMMA da Gennaio 2025.\nChiedo di essere contatta da lunedì 10 marzo, in quanto domani sarò assente dal lavoro.\n \nCordiali saluti.\n \nNicoli Vanessa"
+    }
+  ],
+  "area_sanitaria": [
+    {
+      "classe": "area_sanitaria",
+      "score": 2.639,
+      "n_parole": 33,
+      "oggetto": "Blocco CSS all'apertura del diario medico Mi viene segnalato che spesso, quando ",
+      "testo": "Blocco CSS all'apertura del diario medico Mi viene segnalato che spesso, quando si entra nel diario medico, la CSS si blocca mostrando solo una finestra totalmente bianca che costringe ad uscire dal programma."
+    },
+    {
+      "classe": "area_sanitaria",
+      "score": 0.573,
+      "n_parole": 52,
+      "oggetto": "PAI e cartiglio specifico per strutturs Orario reperibilità contatto: 9,00 - 16,",
+      "testo": "PAI e cartiglio specifico per strutturs Orario reperibilità contatto: 9,00 - 16,00Telefono: 3358068668\n\nCiao,\ndovrei associare un cartiglio specifico ad un PAI specifico.\nLa struttura di riferimento è Casa Serena di Torino (Dominio Piemonte). Solo per il loro PAI bisognerebbe collegare il cartiglio 'Cartiglio PAI - Casa Serena'.\nAttendo vostro riscontro,\nSerena"
+    }
+  ],
+  "area_sistemistica": [
+    {
+      "classe": "area_sistemistica",
+      "score": 2.518,
+      "n_parole": 60,
+      "oggetto": "Richiesta nuovo pc - Gianesin Buongiorno",
+      "testo": "Richiesta nuovo pc - Gianesin Buongiorno\nRichiedo per Claudio Gianesin la sostituzione del pc attualmente in dotazione (del 2019) con un\n\nnuovo NOTEBOOK con Profilo Notebook Sviluppo Software/Commerciale Ext./Formatori Ext.\n\nmonitor almeno da 14 pollici\n\npiano Microsoft 365 Business Standard (in modo che possa avere le Versioni desktop delle app di Office come attualmente ha )\n\ngrazie\n\nValentino AngeliniResponsabile Operativo"
+    },
+    {
+      "classe": "area_sistemistica",
+      "score": 0.879,
+      "n_parole": 42,
+      "oggetto": "Accesso a FB3 - Urgente Buongiorno,",
+      "testo": "Accesso a FB3 - Urgente Buongiorno,\nin fase di accesso a TST-FB3 riscontro da qualche giorno questo messaggio:\n \n \n\n \n \nHo necessità di collegarmi il prima possibile in quanto nel pomeriggio ho un appuntamento con il cliente.\n \nGrazie.\n \n \n\nMichela LorenziniHelp Desk - Ciclo Attivo/Passivo"
+    },
+    {
+      "classe": "area_sistemistica",
+      "score": 0.408,
+      "n_parole": 26,
+      "oggetto": "Accesso Sipcar1.0 Buongiorno, utente Fusarpoli riscontra il problema sotto per a",
+      "testo": "Accesso Sipcar1.0 Buongiorno, utente Fusarpoli riscontra il problema sotto per accesso alle aree 1.0, \nriporta il messaggio sotto\nPotreste verificare e nel caso farci sapere.\nGrazie"
+    }
+  ],
+  "area_territoriale": [
+    {
+      "classe": "area_territoriale",
+      "score": 5.459,
+      "n_parole": 144,
+      "oggetto": "Interventi estratti con API ma non visibili in UnoDomo Orario reperibilità conta",
+      "testo": "Interventi estratti con API ma non visibili in UnoDomo Orario reperibilità contatto: Telefono: \n\nBuongiorno, vi segnaliamo questo caso\nAbbiamo realizzato una estrazione tramite API dove risultano alcuni interventi non validati, in allegato screenshot\nl' UdO e' BG 1003 AES APPOGGI GRUMELLO DEL MONTE\nl'operatore e' PERI LAURA\nil mese e' settembre\n \nSe si accede alla gestione accessi dell'unita', impostando filtro su settembre e operatore PERI, quegli interventi non vengono visualizzati\nAbbiamo fatto questa verifica perche' ci hanno segnalato che sul Timesheet non sono arrivate tutte le ore effet"
+    },
+    {
+      "classe": "area_territoriale",
+      "score": 1.864,
+      "n_parole": 34,
+      "oggetto": "errore portale unodomo Buon giorno,",
+      "testo": "errore portale unodomo Buon giorno,\nè da ieri pomeriggio che non riesco ad accedere alla sezione \"elenco richieste\" perchè, come da allegato, da errore.\nho già cancellato i pop up e la cronologia\ngrazie"
+    },
+    {
+      "classe": "area_territoriale",
+      "score": 0.768,
+      "n_parole": 25,
+      "oggetto": "Storicizzazione della disponibilità Non c’è la temporaneità dell’assegnazione de",
+      "testo": "Storicizzazione della disponibilità Non c’è la temporaneità dell’assegnazione dell’operatore all’unità di offerta, manca l’automatismo di rimozione di un operatore da una data unità di offerta."
+    }
+  ],
+  "ciclo_attivo": [
+    {
+      "classe": "ciclo_attivo",
+      "score": 2.506,
+      "n_parole": 88,
+      "oggetto": "BOLLETTINI PAGOPA Orario reperibilità contatto: giovedì dalle 08.00 alle 14.00 T",
+      "testo": "BOLLETTINI PAGOPA Orario reperibilità contatto: giovedì dalle 08.00 alle 14.00 Telefono: 0456570033 INTERNO 1\n\nBuona sera\nHo elaborato le rette di settembre 2024 e stavo elaborando i bollettini pagopa, che devo allegare alle contabili.\n \nal momento dell'elaborazione esce questo errore:\n \n\n4 - Errore generico: com.sun.xml.internal.messaging.saaj.SOAPExceptionImpl: Invalid Content-Type:text/html. Is this an error message instead of a SOAP response?\n\n \nAvrei urgenza di stampare (per la consegna a mano) e pubblicare i bollettini sul portale utenti, per ricevere i relativi pagamenti entro la scaden"
+    },
+    {
+      "classe": "ciclo_attivo",
+      "score": 0.387,
+      "n_parole": 35,
+      "oggetto": "fatturazione attiva salve sto elaborando delle ft per rette affitti , non riesco",
+      "testo": "fatturazione attiva salve sto elaborando delle ft per rette affitti , non riesco a visualizzarle tutte assieme , ma una alla volta.\n2 giorni fa abbiamo fatto un aggiornamento , cosa può essere ?\ngrazie"
+    },
+    {
+      "classe": "ciclo_attivo",
+      "score": -0.047,
+      "n_parole": 40,
+      "oggetto": "segnalazione di scarto invio fatture Orario reperibilità contatto: Telefono: ",
+      "testo": "segnalazione di scarto invio fatture Orario reperibilità contatto: Telefono: \n\nBuongiorno.\nDopo aver inviato le fatture di vendita esce questa segnalazione . Cosa dobbiamo fare? E' URGENTE PERCHE' LE FATTURE SONO DATATE 31/12 E SIAMO SOTTO SCADENA PER L'INVIO ALLO SDI"
+    }
+  ],
+  "ciclo_passivo": [
+    {
+      "classe": "ciclo_passivo",
+      "score": 4.786,
+      "n_parole": 94,
+      "oggetto": "Registrazione scrittura Orario reperibilità contatto: 08:30-16:00Telefono: 04388",
+      "testo": "Registrazione scrittura Orario reperibilità contatto: 08:30-16:00Telefono: 0438841311\n\nBuongiorno,\nabbiamo ricevuto nel 2024 una fattura da un fornitore che abbiamo registrato nel conto di un cespite.\nSiccome l'acquisto è legato ad una donazione, il nostro consulente ci ha detto di lasciare la scrittura contabile (rilevando l'immobilizzazione) e poi fare un giroconto chiudendo l'immobilizzazione con il conto della donazione.\nNel programma cespiti è stato registrato il bene così come nell'inventario.\nE' possibile lasciare il cespite e il numero di inventario senza che venga calcolato l'ammortam"
+    },
+    {
+      "classe": "ciclo_passivo",
+      "score": 0.634,
+      "n_parole": 43,
+      "oggetto": "Problema con registrazione fatture Orario reperibilità contatto: 09:00-12:00 opp",
+      "testo": "Problema con registrazione fatture Orario reperibilità contatto: 09:00-12:00 oppure 14:00-18:00Telefono: 029254771\n\nBuongiorno,\nDa qualche giorno non riusciamo a registrare alcune fatture. Vorrei chiedere se si tratta solo di creare il codice iva oppure se sia un problema più serio.\n \nGrazie\nCordiali saluti\n \nFabio"
+    },
+    {
+      "classe": "ciclo_passivo",
+      "score": 0.1,
+      "n_parole": 34,
+      "oggetto": "Descrizione CDC in visualizza schede analitica ed esporta su excel Orario reperi",
+      "testo": "Descrizione CDC in visualizza schede analitica ed esporta su excel Orario reperibilità contatto: 9-18Telefono: 3391539569\n\nBuongiorno\nè possibile aggiungere la descrizione CDC nella visualizzazione schede di analitica e relativa esportazione su excel?\nGrazie.\nRossella"
+    }
+  ],
+  "protocollo_documentale_delibere": [
+    {
+      "classe": "protocollo_documentale_delibere",
+      "score": 4.735,
+      "n_parole": 16,
+      "oggetto": "Gestione download PEC e mail nel protocollo CiviliaNext Gestione download PEC e ",
+      "testo": "Gestione download PEC e mail nel protocollo CiviliaNext Gestione download PEC e mail nel protocollo CiviliaNext"
+    },
+    {
+      "classe": "protocollo_documentale_delibere",
+      "score": 1.472,
+      "n_parole": 83,
+      "oggetto": "Conversione proposta di delibera da word a pdf Orario reperibilità contatto: 9:0",
+      "testo": "Conversione proposta di delibera da word a pdf Orario reperibilità contatto: 9:00-16:00Telefono: 049 80 84 242\n\nBuongiorno, \n \ncon la presente chiedo gentilmente supporto in quanto mi è stata segnalata una problematica legata alla conversione della proposta ddg da word a pdf.\n \nNello specifico al momento della conversione il file in formato pdf non mantiene la formattazione del file word.\n \nLa persona da contattare è Federica Dalla Costa al seguente numero 049.8084154 - 049. 8084246\n \n \n \nResto in attesa di un chiarimento, cordiali saluti \n \nBenedetta"
+    }
+  ],
+  "rendicontazione_flussi": [
+    {
+      "classe": "rendicontazione_flussi",
+      "score": 3.362,
+      "n_parole": 65,
+      "oggetto": "Flussi di rendicontazione Buongiorno. Ho elaborato i flussi di rendicontazione e",
+      "testo": "Flussi di rendicontazione Buongiorno. Ho elaborato i flussi di rendicontazione economica FE1 e i flussi Sosia del 3° trimestre.\nSi sono verificati i seguenti errori:\nNei flussi FE1 molte date di decorrenza della condizione ospite sono errate (non si riesce a capire dove prenda tali dati).\nIl flusso SOSIA, caricato sul portale DSP Flux dell'ATS, non visualizza i dati di SOSIA 2 e SOSIA3.\nHelp!!"
+    },
+    {
+      "classe": "rendicontazione_flussi",
+      "score": 0.989,
+      "n_parole": 94,
+      "oggetto": "ERRORE INVIO FLUSSI Orario reperibilità contatto: LUN-VEN dalle 9.00 alle 13.00T",
+      "testo": "ERRORE INVIO FLUSSI Orario reperibilità contatto: LUN-VEN dalle 9.00 alle 13.00Telefono: 0465/503665\n\nBuongiorno, chiedo assistenza per un problema di verbali mancanti, nella cartella sanitaria è stato inserito, modificato più volte perchè il dato non passava ad Atlante.\nPer urgenza ho fatto la richiesta per Atlante e in quel caso lo hanno sistemato, ma in Nsis risulta ancora l'errore. Vedi foto allegata.\nInoltre, chiedo assistenza per quello che riguarda l'apertura di un servizio (ho dovuto aprirlo il giorno precedente all'ingresso) ma per errore è stato inserito in Nsis il giorno errato.\nGra"
+    }
+  ],
+  "sistema381": [
+    {
+      "classe": "sistema381",
+      "score": 8.127,
+      "n_parole": 55,
+      "oggetto": "Oggetto: calendari presenze Da: Personale - Aurora scs  ",
+      "testo": "Oggetto: calendari presenze Da: Personale - Aurora scs  \nInviato: mercoledì 4 dicembre 2024 10:06A: Luca Noriller, SAIDEA srl  Oggetto: calendari presenze\n \nLuca buongiorno mi puoi chaimare quando hai un attimo per un dubbio che ho sul 381 rapportini e calendario presenze ?sto chiudendo il mese e ho dubbi\nGrazie\nAntonella Bortolotti\nUfficio del Personale\n348/2579232"
+    },
+    {
+      "classe": "sistema381",
+      "score": 2.243,
+      "n_parole": 29,
+      "oggetto": "Installazione app Sistema 381per timbratura Orario reperibilità contatto: 8-12Te",
+      "testo": "Installazione app Sistema 381per timbratura Orario reperibilità contatto: 8-12Telefono: 3289007625\n\nBuongiorno,\nun'operatrice ha scaricato l'app SISTEMA 381 su un Iphone 13 PRO ma l'applicazione non parte (vedi video allegato)."
+    },
+    {
+      "classe": "sistema381",
+      "score": 0.951,
+      "n_parole": 92,
+      "oggetto": "Orario doppio sovrapposto in programmazione Tepestini Valentina ci segnala che p",
+      "testo": "Orario doppio sovrapposto in programmazione Tepestini Valentina ci segnala che per la dipendente MAROTTA ROSARIA sono riusciti a creare un orario sovrapposto anche se non dovrebbe essere possibile.\n \n\n \nDALLE\nALLE\nTOT_ORE\nSTATO\nINDISPENSABILE\nOGGETTO\nNOTE\nALTRI_PARTECIPANTI\nPRIVATO\nTIPO_REC\nPROVENIENZA\nESITO\n\n2024-11-29 00:00:00.000\n1900-01-01 06:00:00.000\n1900-01-01 22:00:00.000\n1900-01-01 16:00:00.000\nAT\n0\nRiposo\nNULL\nNULL\n0\nGI\nCopia Singola\nCOMPL\n\n2024-11-29 00:00:00.000\n1900-01-01 07:00:00.000\n1900-01-01 08:00:00.000\n1900-01-01 01:00:00.000\nAT\n0\nNULL\nNULL\nNULL\n0\nGI\nGenerazione Turni\nCOMPL\n"
+    }
+  ]
+}
