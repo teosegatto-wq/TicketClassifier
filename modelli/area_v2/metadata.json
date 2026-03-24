@@ -3,7 +3,7 @@
   "modello_embedding": "intfloat/multilingual-e5-base",
   "prefisso_e5": "query: ",
   "classificatore": "LinearSVC",
-  "C_ottimale": 10.0,
+  "C_ottimale": 5.0,
   "class_weight": "balanced",
   "feature": [
     "embedding_e5_768d",
@@ -43,9 +43,9 @@
   ],
   "split": "temporale",
   "soglia_split": "2025-11-01",
-  "macro_f1_test": 0.6647,
-  "accuracy_test": 0.7561,
-  "n_train": 41828,
+  "macro_f1_test": 0.6778,
+  "accuracy_test": 0.7649,
+  "n_train": 41789,
   "n_test": 10321,
   "note": "Hardware accorpato in area_sistemistica; business_intelligence e protocollo_delibere droppati"
 }
