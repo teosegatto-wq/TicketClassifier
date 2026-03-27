@@ -50,9 +50,9 @@
   ],
   "split": "temporale",
   "soglia_split": "2025-11-01",
-  "macro_f1_test": 0.6777,
-  "accuracy_test": 0.7655,
-  "n_train": 41789,
-  "n_test": 10321,
+  "macro_f1_test": 0.6769,
+  "accuracy_test": 0.7677,
+  "n_train": 41821,
+  "n_test": 12536,
   "note": "Hardware accorpato in area_sistemistica; business_intelligence e protocollo_delibere droppati"
 }
