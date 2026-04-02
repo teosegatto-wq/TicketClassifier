@@ -3,7 +3,7 @@
   "modello_embedding": "intfloat/multilingual-e5-base",
   "prefisso_e5": "query: ",
   "classificatore": "LinearSVC",
-  "C_ottimale": 5.0,
+  "C_ottimale": 1.0,
   "feature": [
     "embedding_e5_768d",
     "priorita_iniziale_cliente_ohe",
@@ -16,11 +16,11 @@
     "P4"
   ],
   "split": "temporale",
-  "soglia_split": "2025-11-01",
-  "macro_f1_test": 0.8396,
-  "accuracy_test": 0.8821,
-  "n_train": 46347,
-  "n_test": 14809,
+  "soglia_split": "2025-11-21",
+  "macro_f1_test": 0.8413,
+  "accuracy_test": 0.8841,
+  "n_train": 48813,
+  "n_test": 12343,
   "keyword_urgenza": [
     "urgente",
     "immediato",
